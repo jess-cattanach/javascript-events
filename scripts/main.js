@@ -30,3 +30,5 @@ evilTex.onmouseover = () => {
             evilTex.setAttribute('src', 'images/texasundercouch.jpg');
         }
 };
+
+//format for image changes taken from Prof McAdams' example.
